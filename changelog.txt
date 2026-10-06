@@ -1,0 +1,4 @@
+v1.2 Yenilikleri:
+- Konum otomatik algılama eklendi.
+- Bildirim sesleri güncellendi.
+- Küçük arayüz optimizasyonları ve hata düzeltmeleri yapıldı.
