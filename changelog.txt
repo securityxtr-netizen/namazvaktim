@@ -1,4 +1,6 @@
-v1.2 Yenilikleri:
-- Konum otomatik algılama eklendi.
-- Bildirim sesleri güncellendi.
+v1.0 Yenilikleri:
 - Küçük arayüz optimizasyonları ve hata düzeltmeleri yapıldı.
+
+[Beklenen Güncellemeler]
+- Bildirim geliştirmesi.
+- Ayet ve Hadislerin ilave edilmesi.
