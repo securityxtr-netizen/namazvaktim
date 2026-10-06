@@ -1,5 +1,7 @@
-v1.0 Yenilikleri:
+v1.0.1 Yenilikleri:
+- Vakit hesaplamaları Diyanet'in sunucularından alacak şekilde yeniden düzenlendi.
 - Küçük arayüz optimizasyonları ve hata düzeltmeleri yapıldı.
+
 
 [Beklenen Güncellemeler]
 - Bildirim geliştirmesi.
