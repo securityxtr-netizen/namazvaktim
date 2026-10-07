@@ -1,4 +1,4 @@
-v1.0.2 Yenilikleri:
+v1.0.3 Yenilikleri:
 - İşrak, Kuşluk ve Evvabin vakitlerinde bildirim eklendi.
 - Kerahat vakitlerini göstermesi eklendi.
 - Vakit hesaplamaları Diyanet'in sunucularından alacak şekilde yeniden düzenlendi.
