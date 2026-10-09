@@ -1,4 +1,4 @@
-v1.0.4 Yenilikleri:
+v1.0.5 Yenilikleri:
 - Bazı küçük hatalar giderildi.
 - Program daha stabil çalışır hale getirildi.
 
