@@ -1,3 +1,7 @@
+v1.0.4 Yenilikleri:
+- Bazı küçük hatalar giderildi.
+- Program daha stabil çalışır hale getirildi.
+
 v1.0.3 Yenilikleri:
 - İşrak, Kuşluk ve Evvabin vakitlerinde bildirim eklendi.
 - Kerahat vakitlerini göstermesi eklendi.
