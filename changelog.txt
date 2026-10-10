@@ -1,3 +1,6 @@
+v1.2.2 Yenilikleri:
+- Minimalist tema eklendi (daha küçük hale getirildi.)
+
 v1.2.1 Yenilikleri:
 - Düzeltme yapıldı.
 
