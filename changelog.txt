@@ -1,3 +1,6 @@
+v1.2.1 Yenilikleri:
+- Düzeltme yapıldı.
+
 v1.2 Yenilikleri:
 - Ayarlar arayüzü değiştirildi.
 - Daha fazla kişiselleştirilebilir seçenekler eklendi.
