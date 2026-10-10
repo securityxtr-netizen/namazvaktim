@@ -1,3 +1,8 @@
+v1.2 Yenilikleri:
+- Ayarlar arayüzü değiştirildi.
+- Daha fazla kişiselleştirilebilir seçenekler eklendi.
+- Bazı hatalar giderildi.
+
 v1.0.5 Yenilikleri:
 - Bazı küçük hatalar giderildi.
 - Program daha stabil çalışır hale getirildi.
