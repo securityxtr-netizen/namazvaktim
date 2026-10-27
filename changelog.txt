@@ -1,4 +1,4 @@
-v1.2.5 Yenilikleri:
+v1.2.6 Yenilikleri:
 - Hatalar giderildi.
 
 v1.2.4 Yenilikleri:
