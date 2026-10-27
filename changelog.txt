@@ -1,5 +1,8 @@
+v1.2.4 Yenilikleri:
+- Namaz vakti hesaplamaları düzeltildi.
+- Temkin süresi ayarlama eklendi.
+
 v1.2.3 Yenilikleri:
-- Namaz vakitlerini daha doğru hesaplaması için çalışma yapıldı.
 - Minimalist tema görünümdeki bazı hatalar giderildi.
 
 [Beklenen Güncellemeler]
