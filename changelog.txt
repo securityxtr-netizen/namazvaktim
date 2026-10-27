@@ -1,3 +1,6 @@
+v1.2.5 Yenilikleri:
+- Hatalar giderildi.
+
 v1.2.4 Yenilikleri:
 - Namaz vakti hesaplamaları düzeltildi.
 - Temkin süresi ayarlama eklendi.
